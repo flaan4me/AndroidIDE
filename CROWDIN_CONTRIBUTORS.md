@@ -1,38 +1,38 @@
-# Crowdin Contributors
+# مساهمو الحشد.
 
 Thanks to all these people, AndroidIDE has been translated into multiple languages!
 
 <!-- CROWDIN-CONTRIBUTORS-START -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top">
-        <a href="https://crowdin.com/profile/itsaky"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/15548591/medium/3c5f3139891eb92915fcf4c1e7ca120e.jpeg" />
-          <br />
-          <sub><b>Akash Yadav (itsaky)</b></sub></a>
-        <br />
-        <sub><b>74666 words</b></sub>
-      </td>
-      <td align="center" valign="top">
-        <a href="https://crowdin.com/profile/liziq"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/15757161/medium/f3903c160404f095de68760f81609430.jpeg" />
-          <br />
-          <sub><b>zhiq liu (liziq)</b></sub></a>
-        <br />
-        <sub><b>7367 words</b></sub>
-      </td>
-      <td align="center" valign="top">
-        <a href="https://crowdin.com/profile/esalessandrx"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/15563911/medium/a2262fe354d51d9c991d06fcace20b7a.jpg" />
-          <br />
-          <sub><b>Alessandro (esalessandrx)</b></sub></a>
-        <br />
-        <sub><b>4133 words</b></sub>
-      </td>
-      <td align="center" valign="top">
-        <a href="https://crowdin.com/profile/andihasan97"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/15550047/medium/ac9578131f9d0bd877837b2ac604795d.png" />
-          <br />
-          <sub><b>Andi Hasan A (andihasan97)</b></sub></a>
-        <br />
-        <sub><b>5867 words</b></sub>
+<طاولة.>
+ الجسم.> 
+  TR.> 
+ <TD.. محاذاة="مركز" valign="أعلى"> 
+ <أ.href="https://crowdin.com/profile/itsaky"> 
+ <br /> 
+ <sub><b>أكاش ياداف (itsaky)  </b></sub></a> <sub><b>Akash Yadav (itsaky)</b></sub></a>
+ <br /> <br />
+ <sub><b>74666 كلمة  </b></sub> <sub><b>74666 words</b></sub>
+ TD> </td>
+ <TD محاذاة="مركز" Valign="أعلى"> <td align="center" valign="top">
+ <a href="https://crowdin.com/profile/liziq"><img alt="شعار" style="العرض: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/15757161/medium/f3903c160404f095de68760f81609430.jpeg" /> <a href="https://crowdin.com/profile/liziq"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/15757161/medium/f3903c160404f095de68760f81609430.jpeg" />
+ <br /> <br />
+ <sub><b>ZHIQ LIU (LIZIQ) </B></Sub></A> <sub><b>zhiq liu (liziq)</b></sub></a>
+ <br /> <br />
+ <sub><b>7367 كلمة</b></sub> <sub><b>7367 words</b></sub>
+ TD> </td>
+ <TD محاذاة="مركز" Valign="أعلى"> <td align="center" valign="top">
+ <a href="https://crowdin.com/profile/esalessandrx"><img alt="شعار" style="العرض: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/15563911/medium/a2262fe354d51d9c991d06fcace20b7a.jpg" /> <a href="https://crowdin.com/profile/esalessandrx"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/15563911/medium/a2262fe354d51d9c991d06fcace20b7a.jpg" />
+ <br /> <br />
+ <sub><b>Alessandro (esalessandrx) </b></sub></a> <sub><b>Alessandro (esalessandrx)</b></sub></a>
+ <br /> <br />
+ <sub><b>4133 كلمة </b></sub> <sub><b>4133 words</b></sub>
+ TD> </td>
+ <TD محاذاة="مركز" Valign="أعلى"> <td align="center" valign="top">
+ <a href="https://crowdin.com/profile/andihasan97"><img alt="شعار" style="العرض: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/15550047/medium/ac9578131f9d0bd877837b2ac604795d.png" /> <a href="https://crowdin.com/profile/andihasan97"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/15550047/medium/ac9578131f9d0bd877837b2ac604795d.png" />
+ <br /> <br />
+ <sub><b>أندي حسن أ (andihasan97) </b></sub></a> <sub><b>Andi Hasan A (andihasan97)</b></sub></a>
+ <br /> <br />
+ <sub><b>5867 الكلمات </b></sub> <sub><b>5867 words</b></sub>
       </td>
       <td align="center" valign="top">
         <a href="https://crowdin.com/profile/smith8h"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/15550455/medium/9c5a3d089c209487340abb35d74b5b7c.jpg" />
